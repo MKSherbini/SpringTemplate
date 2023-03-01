@@ -1,0 +1,17 @@
+.gitignore
+.openapi-generator-ignore
+README.md
+api.module.ts
+api/api.ts
+api/healthCheckController.service.ts
+api/jwtController.service.ts
+api/shopController.service.ts
+configuration.ts
+encoder.ts
+git_push.sh
+index.ts
+model/chickenDTO.ts
+model/models.ts
+model/shopDTO.ts
+param.ts
+variables.ts
