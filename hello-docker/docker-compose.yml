@@ -1,0 +1,10 @@
+version: "3.9"
+# docker-compose up --build --force-recreate
+
+services:
+  hello-docker:
+    container_name: hello-docker
+    build: .
+    environment:
+      - SMT=test
+    command: ["xxxx"]
